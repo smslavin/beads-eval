@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: unitconv
+Version: 0.1.0
+Summary: A command-line unit conversion tool
+Requires-Python: >=3.8
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
