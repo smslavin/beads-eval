@@ -1,0 +1,4 @@
+{"id":"int-e583332b2cba0e654a2ad9c33a6f927e","kind":"field_change","created_at":"2026-08-26T20:49:06.282807Z","actor":"seanslavin","issue_id":"beads-eval-94b","extra":{"field":"assignee","new_value":"agent-A","old_value":""}}
+{"id":"int-71fa2ff5c7bdcd00c09b0d90cd056716","kind":"field_change","created_at":"2026-08-26T20:49:14.914338Z","actor":"seanslavin","issue_id":"beads-eval-94b","extra":{"field":"status","new_value":"open","old_value":"in_progress"}}
+{"id":"int-1799e20400b94b1ee53781ca80fd5240","kind":"field_change","created_at":"2026-08-26T20:49:14.914807Z","actor":"seanslavin","issue_id":"beads-eval-94b","extra":{"field":"assignee","new_value":"","old_value":"agent-A"}}
+{"id":"int-dfedeaa5e5080ff93a81efe1690157bf","kind":"field_change","created_at":"2026-08-26T20:49:49.118358Z","actor":"seanslavin","issue_id":"beads-eval-94b","extra":{"field":"assignee","new_value":"eval-worker-1","old_value":""}}
