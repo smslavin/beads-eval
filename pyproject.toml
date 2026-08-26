@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "unitconv"
+version = "0.1.0"
+description = "A command-line unit conversion tool"
+requires-python = ">=3.8"
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+unitconv = "unitconv.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["unitconv*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
